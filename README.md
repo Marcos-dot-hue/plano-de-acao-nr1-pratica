@@ -143,3 +143,8 @@ Riscos psicossociais na NR-1 sem papelada [Áudio Overview]: Um podcast dinâmic
 
 Mapa Mental das Fases do PGR/GRO (NR-1) & Cartões Didáticos [App]: Aplicativos dinâmicos de fixação rápida para responsáveis e membros do SESMT.
 
+---
+
+## 📂 Documentação e Artefatos do Projeto
+Todos os relatórios executivos, manuais em PDF, planilhas de matriz de risco e roteiros gerados durante este projeto prático estão salvos na pasta [docs/](./docs/) para consulta técnica, auditoria e download.
+
